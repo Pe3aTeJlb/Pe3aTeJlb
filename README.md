@@ -14,7 +14,7 @@ I am interested in:
 
 # Interesting to check
 You can visit my website [website](https://sites.google.com/view/pplosstudio)(only Russian language available) and read the extended description of the projects and some coolstories.
-Also check my youtube [website](https://www.youtube.com/channel/UCJejCS5n7vCwSNBi7wq8VCw) with demos, gameplays.
+Also check my [youtube](https://www.youtube.com/channel/UCJejCS5n7vCwSNBi7wq8VCw) with demos, gameplays.
 
 # Current activities
 Currently I work as an ETL developer on SAS platform.
