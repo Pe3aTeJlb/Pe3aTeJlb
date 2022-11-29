@@ -1,6 +1,6 @@
 # Hello!
 My name is Shchepukhin Denis a.k.a Pe3aTeJlb.  
-The only and only developer in Pplos Studio.  
+The one and only developer in Pplos Studio.  
 I am a programmer.
 
 I am interested in:
