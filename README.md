@@ -4,7 +4,7 @@ The one and only developer in Pplos Studio.
 I am a programmer.
 
 I am interested in:
-- Сircuit design/circ CADs
+- Application programming
 - Game Development 
 - AR/VR and 3D visualization and procedural content
 
