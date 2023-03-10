@@ -24,8 +24,8 @@ You can visit my website [website](https://sites.google.com/view/pplosstudio)(on
 Also check my [youtube](https://www.youtube.com/channel/UCJejCS5n7vCwSNBi7wq8VCw) with demos, gameplays.
 
 # Current activities
-Currently I work as an ETL developer on SAS platform.
-At the same time, I am improving my qualifications in ML and Data analysis in Samsung Innovation Campus
+Currently I'am working on LogisimFX.
+
 
 # Contacts
 You can contact me:
