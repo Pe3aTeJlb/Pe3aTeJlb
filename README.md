@@ -24,7 +24,8 @@ You can visit my website [website](https://sites.google.com/view/pplosstudio)(on
 Also check my [youtube](https://www.youtube.com/channel/UCJejCS5n7vCwSNBi7wq8VCw) with demos, gameplays.
 
 # Current activities
-Currently I'am working on LogisimFX.
+Currently I'am working on LogisimFX and have part-time job. 
+Java, Java, Java coffee-break Java
 
 
 # Contacts
