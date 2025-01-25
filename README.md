@@ -24,6 +24,7 @@ You can visit website [website](https://sites.google.com/view/pplosstudio) (only
 Also demos and gameplays available on [youtube](https://www.youtube.com/channel/UCJejCS5n7vCwSNBi7wq8VCw).
 
 # Current activities
+PhD student in CS. 
 Sluggish rethinkin of LogisimFX toolchain and ECAD opersource ecosystem in new CAD
 
 
